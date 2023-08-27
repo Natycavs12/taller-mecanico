@@ -1,0 +1,8 @@
+/build
+/nbproject
+*.log
+*.log.*
+log/
+logs/
+*.tmp
+/test
